@@ -303,8 +303,8 @@ error_reporting(E_ALL);
 
 🙏 Agradecimentos
 
-· OpenAI pela incrível API
-· Bootstrap pelo framework CSS
+· OpenAI pela incrível API<br>
+· Bootstrap pelo framework CSS<br>
 · Comunidade PHP e JavaScript
 
 ---
