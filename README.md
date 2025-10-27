@@ -210,12 +210,12 @@ define('OPENAI_API_KEY', 'sk-sua-chave-aqui');
 
 Tabelas Principais
 
-· users - Usuários do sistema
-· products - Catálogo de produtos
-· categories - Categorias de produtos
-· cart - Itens do carrinho
-· orders - Pedidos realizados
-· order_items - Itens dos pedidos
+· users - Usuários do sistema<br>
+· products - Catálogo de produtos<br>
+· categories - Categorias de produtos<br>
+· cart - Itens do carrinho<br>
+· orders - Pedidos realizados<br>
+· order_items - Itens dos pedidos<br>
 · user_behavior - Comportamento para recomendações
 
 Schema Completo
@@ -269,8 +269,8 @@ define('DB_NAME', 'smart_ecommerce'); // Nome correto do banco
 
 API OpenAI não responde
 
-· Verifique se a API Key está correta
-· Confirme se há créditos na conta OpenAI
+· Verifique se a API Key está correta<br>
+· Confirme se há créditos na conta OpenAI<br>
 · Verifique a conexão com a internet
 
 Carrinho não salva itens
