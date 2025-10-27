@@ -309,12 +309,6 @@ error_reporting(E_ALL);
 
 ---
 
-⭐ Se este projeto foi útil, deixe uma estrela no repositório!
-
-https://api.star-history.com/svg?repos=https://github.com/NinoMiquelino/smart-commerce-ai&type=Date
-
----
-
 ## 🤝 Contribuições
 Contribuições são sempre bem-vindas!  
 Sinta-se à vontade para abrir uma [*issue*](https://github.com/NinoMiquelino/smart-commerce-ai/issues) com sugestões ou enviar um [*pull request*](https://github.com/NinoMiquelino/smart-commerce-ai/pulls) com melhorias.
