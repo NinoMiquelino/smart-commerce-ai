@@ -288,15 +288,15 @@ error_reporting(E_ALL);
 
 📈 Próximas Funcionalidades
 
-· Sistema de usuários completo
-· Integração com gateways de pagamento (Stripe, PagSeguro)
-· Sistema de avaliações e reviews
-· Dashboard administrativo avançado
-· Email marketing automatizado
-· Sistema de cupons e promoções
-· Relatórios analíticos com gráficos
-· Multi-idioma e internacionalização
-· API RESTful documentada
+· Sistema de usuários completo<br>
+· Integração com gateways de pagamento (Stripe, PagSeguro)<br>
+· Sistema de avaliações e reviews<br>
+· Dashboard administrativo avançado<br>
+· Email marketing automatizado<br>
+· Sistema de cupons e promoções<br>
+· Relatórios analíticos com gráficos<br>
+· Multi-idioma e internacionalização<br>
+· API RESTful documentada<br>
 · PWA (Progressive Web App)
 
 ---
