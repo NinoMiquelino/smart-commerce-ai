@@ -127,7 +127,7 @@ smart-commerce-ai/
 
 1. **Clone o repositório**
    ```bash
-   git clone https://github.com/seu-usuario/smart-commerce-ai.git
+   git clone https://github.com/NinoMiquelino/smart-commerce-ai.git
    cd smart-commerce-ai
 ```
 
