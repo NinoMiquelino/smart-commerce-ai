@@ -10,6 +10,8 @@
 
 ---
 
+EM DESENVOLVIMENTO
+
 # 🛒 SmartCommerce AI
 
 [![PHP Version](https://img.shields.io/badge/PHP-8.0%2B-777BB4?logo=php&logoColor=white)](https://www.php.net/)
