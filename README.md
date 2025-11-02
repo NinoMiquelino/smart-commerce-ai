@@ -11,7 +11,7 @@
 ---
 
 <div align="center" color="red">
-<h5>🛠️ EM DESENVOLVIMENTO 🛠️</h5>
+<h5 color="red">🛠️ EM DESENVOLVIMENTO 🛠️</h5>
 </div>
 
 ---
