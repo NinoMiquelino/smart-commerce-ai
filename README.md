@@ -131,9 +131,11 @@ Este projeto oferece uma base sólida para um e-commerce inteligente com recomen
 
 ---
 
-​<span align="center">
+​<div align="center">
+
 Desenvolvido com 💙 com PHP e Javascript
-</span>
+
+</div>
 
 ---
 
