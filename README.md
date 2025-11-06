@@ -130,11 +130,9 @@ smart-commerce-ai/
 Este projeto oferece uma base sólida para um e-commerce inteligente com recomendações de IA, sendo totalmente funcional e extensível para novas funcionalidades.
 
 ---
-
 ​<p align="center">
 Desenvolvido com 💙 com PHP e Javascript
 </p>
-
 ---
 
 ## 🤝 Contribuições
