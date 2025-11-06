@@ -132,7 +132,9 @@ Este projeto oferece uma base sólida para um e-commerce inteligente com recomen
 ---
 
 ​<div align="center">
-Desenvolvido com 💙 com PHP e Javascript
+
+Desenvolvido com 💙 com PHP, Javascript e Tailwind CSS
+
 </div>
 
 ---
